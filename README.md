@@ -11,7 +11,7 @@ This application is written in the python 3.7 language. It uses the 'pandas', 'p
 
 ## Data Sets
 
-There are two data sets analyzed in this program. Both data sets contain the Open, High, Low, Close, BTC Volume, USD Volume, and Weighted Price values. Only the "Close" price was used in analysis. Both data sets record these values every minute between January 1st through March 31st in 2018. One data set records these values as they existed on the Bitstamp exchange and the other on the Coinbase exchange. The two datasets are aptly named bitstamp.csv and coinbase.csv. 
+There are two data sets analyzed in this program. Both data sets contain the Open, High, Low, Close, BTC Volume, USD Volume, and Weighted Price values. Only the "Close" price was used in analysis. Both data sets recorded these values every minute between January 1st through March 31st in 2018. One data set records these values as they existed on the Bitstamp exchange and the other on the Coinbase exchange. The two datasets are aptly named bitstamp.csv and coinbase.csv. 
 
 
 ---
